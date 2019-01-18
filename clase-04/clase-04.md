@@ -2,7 +2,7 @@
 
 ## Objetivos
 
-* Familiarizarce con la STL
+* Familiarizarse con la STL
 * Ver problemas de fuerza bruta
 
 # STL (Standard Template Library)
@@ -472,3 +472,17 @@ Practicar bastante y leer blogs como estos:
 * [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)
 * [cplusplus](http://www.cplusplus.com/reference/vector/vector/)
 * [Competitive C++ Manifesto: A Style Guide](https://codeforces.com/blog/entry/64218)
+
+
+## Ahora, veamos 2 problemas de fuerza bruta
+
+Chequiemos estos 2 problemas por unos minutos e intentemos resolverlos.
+
+* [A. Cut Ribbon](https://codeforces.com/problemset/problem/189/A)
+* [A. 2Char](https://codeforces.com/contest/593/problem/A)
+
+*La solucion se dara en la pizarra o en el proyector pasado unos minutos*
+
+## ¿Y qué puedo hacer con mi vida hasta la próximo clase?
+
+[Contest time :smile:](https://vjudge.net/)
