@@ -483,6 +483,9 @@ Chequiemos estos 2 problemas por unos minutos e intentemos resolverlos.
 
 *La solucion se dara en la pizarra o en el proyector pasado unos minutos*
 
+* [Notas de Mini de fuerza bruta (en desarrollo)](https://gist.github.com/miguelAlessandro/f588d159a768dc43cc1ec9b81b27bd57)
+
 ## ¿Y qué puedo hacer con mi vida hasta la próximo clase?
 
-[Contest time :smile:](https://vjudge.net/)
+[Contest time :smile:](https://vjudge.net/contest/279950)
+*password*: pcuni
